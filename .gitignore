@@ -104,3 +104,8 @@ InitTestScene*.unity*
 
 git add -f WebBuild
 git add -f WebBuild/*
+
+
+# Permitir build de web
+!Build/
+!Build/**
